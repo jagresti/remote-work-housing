@@ -1,0 +1,17 @@
+# keep the repo lean
+data/**
+!data/.gitkeep
+!data/README.md
+
+# notebooks checkpoints
+.ipynb_checkpoints/
+
+# OS/editor cruft
+.DS_Store
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
