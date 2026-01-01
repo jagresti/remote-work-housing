@@ -20,7 +20,7 @@ Cities included:
 - South San Francisco
 - Brisbane
 - Pacifica
-- Colma
+- San Leandro
 - Oakland
 - Berkeley
 - Alameda
@@ -103,3 +103,8 @@ Key comparisons:
 - No endogenous housing construction
 - No wage changes
 - Synthetic households
+
+10. Data
+    1. Median Household Income -- 2023 ACS 5 Year Estimates Data Profiles
+    2. Housing Supply -- 2023 ACS 5 Year Estimates Data Profiles
+    3. Home Price -- Zillow Home Value Index (ZHVI) (April 2025)
