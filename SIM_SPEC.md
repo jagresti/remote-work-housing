@@ -107,4 +107,4 @@ Key comparisons:
 10. Data
     1. Median Household Income -- 2023 ACS 5 Year Estimates Data Profiles
     2. Housing Supply -- 2023 ACS 5 Year Estimates Data Profiles
-    3. Home Price -- Zillow Home Value Index (ZHVI) (April 2025)
+    3. Home Price -- Zillow Home Value Index (ZHVI) (November 2025)
