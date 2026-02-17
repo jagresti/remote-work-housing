@@ -108,3 +108,21 @@ Key comparisons:
     1. Median Household Income -- 2023 ACS 5 Year Estimates Data Profiles
     2. Housing Supply -- 2023 ACS 5 Year Estimates Data Profiles
     3. Home Price -- Zillow Home Value Index (ZHVI) (November 2025)
+
+11. Variable Construction and Definitions
+    1. Rent Growth Acceleration (outcome): 
+        - difference between the average post-period rent growth and the average baseline rent growth. This measure captures changes in the trajectory of rent rates, giving us insight into how the rate of rent growth has changed over time. 
+        - positive values indicate that rent is increasing faster than before, while negative values indicate a slowdown in growth compared to pre-existing trends.
+        - isolates new housing market pressures  
+        - post_growth - baseline_growth
+    2. Baseline Rent Growth
+        - average rent growth rate prior to the pandemic (Jan 2019- Feb 2020)
+        - controls for pre-existing market trends (before remote work, COVID, migration shifts)
+    3. Rent-to-Income Ratio
+        - median_rent(Nov 2025) * 12/median household income
+        - indicates the share of income that goes towards rent
+        - measures affordability constraints and vulnerability to demand shocks
+    4. Median Household Income
+        - proxy for local purchasing power
+    5. Housing Supply
+        - captures the ability of a city to absorb new demand without accelerating rents 
