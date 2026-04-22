@@ -15,19 +15,19 @@ Primary Question: Does DLIT reduce high-income inflows and slow the rate of rent
 
 3. Cities
 Cities included:
-- San Francisco (origin)
-- Daly City
-- South San Francisco
-- Brisbane
-- Pacifica
-- San Leandro
-- Oakland
-- Berkeley
 - Alameda
+- Berkeley
+- Brisbane (dropped due to missing values)
+- Daly City
+- Mill Valley
+- Oakland
+- Pacifica
 - San Bruno
+- San Francisco (origin)
+- San Leandro
 - San Rafael
 - Sausalito
-- Mill Valley
+- South San Francisco
 
 For each city, track:
 - rent
